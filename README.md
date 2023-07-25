@@ -191,7 +191,7 @@ $ cd Betty; ./install.sh
 
 * **Henriette Tuombe** - [@henriettetuombe](https://github.com/henriettetuombe)
 
-* **Mariam Ibrahim** - [@Mariam Ibrahim](https://github.com/mariamibrahim)
+* **Mariam Ibrahim** - [@jolinejo](https://github.com/Jolinejo)
 
 
 ## :mag: License
